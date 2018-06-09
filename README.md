@@ -1,4 +1,6 @@
 # lesson-app
 display：flex
 
-[!preview](https://github.com/KuroNekoNyaa/lesson-app/blob/master/img/app.png)
+![preview](img/app.png)
+
+轮播图有点小问题 待修复
